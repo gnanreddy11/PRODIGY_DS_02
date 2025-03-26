@@ -7,7 +7,7 @@ I selected the **Video Game Sales** dataset from Kaggle, which includes sales fi
 ---
 
 ## 📂 Dataset
-- Source: [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings)
+- Source: [Kaggle - Video Game Sales]([https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings))
 
 ---
 
@@ -47,9 +47,3 @@ I selected the **Video Game Sales** dataset from Kaggle, which includes sales fi
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
----
-
-## 🚀 Status
-✔️ Completed and submitted as part of internship Task-02.
-
