@@ -7,7 +7,7 @@ I selected the **Video Game Sales** dataset from Kaggle, which includes sales fi
 ---
 
 ## 📂 Dataset
-- Source: [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+- Source: [Kaggle - Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
 
 ---
 
